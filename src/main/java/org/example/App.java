@@ -15,5 +15,7 @@ public class App
         System.out.println(obj.getAge());
         obj.code();
 
+
+//        Desktop dsk = context.getBean(Desktop.class);
     }
 }
